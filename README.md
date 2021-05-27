@@ -21,7 +21,7 @@ Produisez un script qui fait appel à l’API d’astéroïde (NeoWs) de la NASA
 
 1)	Obtenir et afficher l’information suivante sur les astéroïdes détectés entre le 31 Octobre 2019 et le 2 Novembre 2019 inclusivement : 
       - `name`
-      - `Id`
+      - `id`
       - `close_approach_date_full`
    
 2)	Pour les astéroïdes entre les dates du 10 et 17 Septembre 2020 inclusivement, calculer : 
