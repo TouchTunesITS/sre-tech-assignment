@@ -73,6 +73,6 @@ Write a script that uses the NASA Asteroids (NeoWs) API ( https://api.nasa.gov/ 
 
 **Note** : For this task, you must implement the algorithms to determine the velocities, means and medians by yourself.  You may use built-in sorting functions but must not use any built in or lib functions to do the calculations.
 
-3. Find the three most recent (from today) asteroid approaches where the `is_potentially_hazardous_asteroid` flag is set to true.
+3. Find the three most recent asteroid approaches where the `is_potentially_hazardous_asteroid` flag is set to true.
 
 You may use any online resource you like.
